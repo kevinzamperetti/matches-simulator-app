@@ -9,3 +9,6 @@ Este repositório foi organizado em algumas branches que representam as implemen
 
 2. Componentes, Layouts e UI/UX Em Aplicativos Android
    - [release/components-layouts-ui-ux-apps-android](https://github.com/kevinzamperetti/matches-simulator-app/tree/release/components-layouts-ui-ux-apps-android)
+
+3. Java e Kotlin Juntos!? Contruindo Apps Android
+   - [release/java-and-kotlin-together-building-apps-android](https://github.com/kevinzamperetti/matches-simulator-app/tree/release/java-and-kotlin-together-building-apps-android)
