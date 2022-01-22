@@ -12,3 +12,7 @@ Este repositório foi organizado em algumas branches que representam as implemen
 
 3. Java e Kotlin Juntos!? Contruindo Apps Android
    - [release/java-and-kotlin-together-building-apps-android](https://github.com/kevinzamperetti/matches-simulator-app/tree/release/java-and-kotlin-together-building-apps-android)
+
+4. Configurando o Firebase Para Apps Android Resilientes
+   - [release/configuration-firebase-in-apps-android](https://github.com/kevinzamperetti/matches-simulator-app/tree/release/configuration-firebase-in-apps-android)
+
